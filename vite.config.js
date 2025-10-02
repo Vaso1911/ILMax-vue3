@@ -56,7 +56,7 @@ export default defineConfig({
       },
     },
   },
-  base: './',
+    base: '/ILMax-vue3/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
