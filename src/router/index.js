@@ -10,27 +10,27 @@ const router = createRouter({
   history: createWebHashHistory (),
   routes: [
     {
-      path: 'ILMax-vue3/#/',
+      path: '/',
       component: HomeView,
     },
     {
-      path: 'ILMax-vue3/#/price',
+      path: '/price',
       component: PriceView
     },
     {
-      path: 'ILMax-vue3/#/about',
+      path: '/about',
       component: AboutView
     },
     {
-      path: 'ILMax-vue3/#/terms',
+      path: '/terms',
       component: TermsView
     },
     {
-      path: 'ILMax-vue3/#/privacy',
+      path: '/privacy',
       component: PrivacyView
     },
     {
-      path: 'ILMax-vue3/#/error',
+      path: '/error',
       component: ErrorView
     },
 
