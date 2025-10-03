@@ -32,18 +32,18 @@ const listClass = computed(() => {
 })
 
 const headerItems = [
-  { id: 1, title: 'О нас', link: '/about' },
-  { id: 2, title: 'Услуги', link: '/error' },
-  { id: 3, title: 'Прайс лист', link: '/price' },
+  { id: 1, title: 'О нас', link: '/ILMax-vue3/#/about' },
+  { id: 2, title: 'Услуги', link: '/ILMax-vue3/#/error' },
+  { id: 3, title: 'Прайс лист', link: '/ILMax-vue3/#/price' },
 ]
 
 
 const footerItems = [
-  { id: 1, title: 'О нас', link: '/about' },
-  { id: 2, title: 'Услуги', link: '/error' },
-  { id: 3, title: 'Прайс лист', link: '/price' },
-  { id: 4, title: 'Политика конфиденциальности', link: '/privacy' },
-  { id: 5, title: 'Пользовательское соглашение', link: '/terms' },
+  { id: 1, title: 'О нас', link: '/ILMax-vue3/#/about' },
+  { id: 2, title: 'Услуги', link: '/ILMax-vue3/#/error' },
+  { id: 3, title: 'Прайс лист', link: '/ILMax-vue3/#/price' },
+  { id: 4, title: 'Политика конфиденциальности', link: '/ILMax-vue3/#/privacy' },
+  { id: 5, title: 'Пользовательское соглашение', link: '/ILMax-vue3/#/terms' },
 
 ]
 </script>

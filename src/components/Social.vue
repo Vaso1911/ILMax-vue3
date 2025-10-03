@@ -2,7 +2,7 @@
   <ul class="list-reset social">
     <li class="social__item">
       <a
-        href="#"
+        href="/ILMax-vue3/#"
         class="social__link d-flex align-items-center"
       >
         <img
@@ -14,7 +14,7 @@
     </li>
     <li class="social__item ">
       <a
-        href="#"
+        href="/ILMax-vue3/#"
         class="social__link d-flex align-items-center"
       >
         <img
@@ -26,7 +26,7 @@
     </li>
     <li class="social__item">
       <a
-        href="#"
+        href="/ILMax-vue3/#"
         class="social__link d-flex align-items-center"
       >
         <img

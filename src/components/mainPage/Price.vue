@@ -8,7 +8,7 @@
         вопросах.
       </p>
       <PriceList />
-      <a class="btn btn-primary p-3 text-uppercase d-flex m-auto" href="/price">Прайс лист</a>
+      <a class="btn btn-primary p-3 text-uppercase d-flex m-auto" href="/ILMax-vue3/#/price">Прайс лист</a>
     </div>
   </section>
 </template>

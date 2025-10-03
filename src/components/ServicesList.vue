@@ -5,7 +5,7 @@
       :key="item.id"
       class=""
     >
-      <a href="/services">
+      <a href="/ILMax-vue3/#/error">
         <article class="card d-flex flex-column align-items-center text-center gap-3">
           <CardIcon />
           <h2 class="card__title fs-4">{{ item.title }}</h2>
