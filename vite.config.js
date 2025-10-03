@@ -5,6 +5,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/ILMax-vue3/',
   plugins: [
     vue(),
     vueDevTools(),
@@ -26,7 +27,6 @@ export default defineConfig({
       },
     },
   },
-    base: '/ILMax-vue3/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
