@@ -10,7 +10,7 @@
       </h1>
       <a
         class="btn btn-primary p-3 text-uppercase d-flex m-auto"
-        href="/price"
+        href="/ILMax-vue3/#/price"
       >Прайс лист</a>
     </div>
   </section>
