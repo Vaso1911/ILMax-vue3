@@ -11,6 +11,13 @@ import router from './router'
 
 const app = createApp(App)
 
+const redirect = sessionStorage.redirect;
+delete sessionStorage.redirect;
+if (redirect && redirect !== location.pathname) {
+  history.replaceState(null, null, redirect);
+}
+
+
 app.use(createPinia())
 app.use(router)
 
