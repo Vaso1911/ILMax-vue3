@@ -7,7 +7,7 @@ import PrivacyView from '@/views/PrivacyView.vue'
 import ErrorView from '@/views/ErrorView.vue'
 
 const router = createRouter({
-  history: createWebHistory('/ILMax-vue3/'),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
