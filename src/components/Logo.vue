@@ -1,5 +1,5 @@
 <template>
-  <a href="/" class="logo">
+  <a href="/ILMax-vue3/#/" class="logo">
 <LogoIcon />
   </a>
 </template>
