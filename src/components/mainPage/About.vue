@@ -2,7 +2,7 @@
   <section class="about section-p">
     <div class="container about__container">
       <div class="about__wrapper">
-        <h2 class="title">Юридическая компания&nbsp;<span class="text-primary">ИлМакс</span></h2>
+        <h2 class="title">Компания&nbsp;<span class="text-primary">ИлМакс</span></h2>
         <p>Основанная в Калининграде более 10 лет назад, наша компания начинала с оказания базовых юридических
           консультаций для местных жителей.</p>
         <p>Сегодня мы c лёгкостью решаем самые актуальные проблемы: защищаем права работников при незаконном
